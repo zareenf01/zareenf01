@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me .. zareenfatima3762@gmail.com
--  connect with me..linktr.ee/01zareen  
+-  connect with me.. https://linktr.ee/01zareen  
 
 <!---
 zareenf01/zareenf01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

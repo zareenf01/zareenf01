@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zareenf01
 - 👀 I’m interested in Web Development, DevOps and Open Source
 - 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to collaborate on OpenSource
 - 📫 How to reach me .. zareenfatima3762@gmail.com
 -  connect with me.. https://linktr.ee/01zareen  
 

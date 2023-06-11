@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/zareenf01/zareenf01/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
 

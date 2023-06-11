@@ -1,4 +1,4 @@
-<h2 align="center">Hi ! 👋 I'm Zareen.</h2> <h3 align="center">
+<h2 align="center">Hi ! 👋 I'm Zareen</h2> <h3 align="center">
 <h3 align="center">I transform pixels into your online vision.</h3>
 
   

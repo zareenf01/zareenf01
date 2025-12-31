@@ -42,7 +42,7 @@
   <b>
     <a href="https://twitter.com/ZareenFatima01" target="_blank">Twitter</a> ·
     <a href="https://www.linkedin.com/in/zareen-fatima-476110244/" target="_blank">LinkedIn</a> ·
-    <a href="https://linktr.ee/01zareen" target="_blank">Linktree</a>
+    <a href="https://zareenn.xyz" target="_blank">Portfolio</a>
   </b>
 </div>
 
